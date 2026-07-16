@@ -1,0 +1,13 @@
+﻿EmployeeID,Department,JobRole,Age,Gender,Education,JoiningDate,Attrition,Salary,PerformanceRating,SatisfactionScore,HiringSource,ExitDate
+101,Sales,Sales Executive,29,Male,Bachelor,15-06-2021,No,45000,4,3,LinkedIn,Still Employed
+102,IT,Software Engineer,32,Female,Master,10-03-2020,No,75000,5,4,Referral,Still Employed
+103,HR,HR Manager,41,Male,MBA,20-01-2018,No,68000,3,3,Job Portal,Still Employed
+104,IT,Data Analyst,27,Female,Bachelor,01-07-2022,Yes,52000,2,2,LinkedIn,2024-05-10
+105,Finance,Accountant,35,Male,Master,11-11-2019,No,60000,4,4,Referral,Still Employed
+106,Sales,Sales Manager,45,Female,MBA,25-09-2017,Yes,72000,3,2,Job Portal,2023-12-01
+107,IT,Software Engineer,30,Male,Bachelor,12-04-2021,No,71000,5,5,LinkedIn,Still Employed
+108,HR,Recruiter,26,Female,Bachelor,15-02-2023,No,40000,4,4,Campus,Still Employed
+109,Finance,Financial Analyst,33,Male,Master,05-08-2020,No,65000,3,3,Referral,Still Employed
+110,IT,Data Scientist,38,Female,PhD,18-06-2019,No,90000,5,5,LinkedIn,Still Employed
+111,Sales,Sales Executive,28,Male,Bachelor,10-01-2022,Yes,48000,2,2,Job Portal,2024-02-20
+112,HR,HR Executive,31,Female,MBA,25-05-2021,No,52000,4,4,Referral,Still Employed
